@@ -1,2 +1,2 @@
 # MathBot
-List of different assignments i worked on in college that I am proud of
+Math Bot program that comunicated with a server to recieve math questions and send answers made for an assignment
